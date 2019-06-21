@@ -1,0 +1,2 @@
+export const GET_PERSONAL_URL = 'GET_PERSONAL_URL'
+export const GET_PERSONAL_ID = 'GET_PERSONAL_ID'
